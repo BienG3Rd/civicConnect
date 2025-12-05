@@ -66,8 +66,6 @@ yarn-error.log*
 /backend/.env.*
 
 # Frontend specific
-/v0-digital-governance-platform/.next/
-/v0-digital-governance-platform/out/
 
 # Cache
 .cache/
